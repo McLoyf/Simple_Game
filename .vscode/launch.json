@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run HelloSFML (WSL)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "/home/aorti/repos/Learn_C++/Simple_Game/HelloSFML/app",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/home/aorti/repos/Learn_C++/Simple_Game/HelloSFML",
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "preLaunchTask": "build HelloSFML"
+    }
+  ]
+}
