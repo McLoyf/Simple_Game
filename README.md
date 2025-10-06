@@ -29,11 +29,11 @@
 </ul>
 
 <h2>What will the game run on?</h2>
-<p>It'll be a Windows game, at least at the beginning as that's the OS I use but I don't see why I should be limited to Windows. It would be good to venture out and make the game be able to run on Linix, MacOs, Android and IOS.</p>
+<p>It'll be a Windows game, at least at the beginning as that's the OS I use but I don't see why I should be limited to Windows. It would be good to ake something to make the game be able to run on Linix, MacOs, Android and IOS.</p>
 
 <p>But that's for later, after I'm done with the game. Right now it's best to not think too much about it, it's a game to run on my laptop for right now.</p>
 
-<h2>Basic Roadmap of Projects to get to final goal (Subject to Chage)</h2>
+<h2>Basic Roadmap of Projects to get to final goal (Subject to Change)</h2>
 
 <h3>Stage 1: Terminal Games</h3>
 <ol>
@@ -59,11 +59,10 @@
     <li> Donkey Kong
 </ol>
 
-<h3>Stage 4: Platform Games</h3>
+<h3>Stage 4: More Advanced Game</h3>
 
 <ol>
-    <li> Mini Platformer
-    <li> Top-Down Adventure Game
+    <li> DOOM Clone
 </ol>
 
 <h3>Stage 5: Making an Original 2D Game</h3>
