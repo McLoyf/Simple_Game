@@ -65,7 +65,7 @@
 <h2>Timeline for Tasks</h2>
 <h3> learncpp.com </h3>
 <ul>
-    <li> Will update which chapters I've completed as I go
+    <li> (1/2/26) Chapter 1 complete
 </ul>
 <h3> Game Making </h3>
 <ul>
