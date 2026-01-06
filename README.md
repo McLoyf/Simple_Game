@@ -66,6 +66,7 @@
 <h3> learncpp.com </h3>
 <ul>
     <li> (1/2/26) Chapter 1 complete
+    <li> (1/6/26) Chapter 2 complete
 </ul>
 <h3> Game Making </h3>
 <ul>
